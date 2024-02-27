@@ -32,7 +32,7 @@
         if ($result) {
             echo "<div class='form'>
                   <h3>You have registered a new user successfully.</h3><br/>
-                  <p class='link'>Click here to <a href='login.php'>Login</a></p>
+                  <p class='link'>Click here to <a href='index.php'>Login</a></p>
                   </div>";
         } else {
             echo "<div class='form'>
@@ -53,7 +53,7 @@
         <input type="number" class="login-input" name="income" placeholder="Average Income">
         <input type="checkbox" class="login-input" name="hasphone" placeholder="Do You Have A Phone?">
         <input type="submit" name="submit" value="Register" class="login-button">
-        <p class="link"><a href="login.php">Click to Login</a></p>
+        <p class="link"><a href="index.php">Click to Login</a></p>
     </form>
 <?php
     }
