@@ -1,0 +1,7 @@
+<palette>
+  <color name="Delft Blue" hex="414361" r="65" g="67" b="97" />
+  <color name="Anti-flash white" hex="edf2ef" r="237" g="242" b="239" />
+  <color name="Hooker's green" hex="70877f" r="112" g="135" b="127" />
+  <color name="Redwood" hex="ad6a6c" r="173" g="106" b="108" />
+  <color name="Rosy brown" hex="b88e8d" r="184" g="142" b="141" />
+</palette>

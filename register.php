@@ -51,7 +51,7 @@
         <input type="text" class="login-input" name="lname" placeholder="Last Name">
         <input type="number" class="login-input" name="age" placeholder="Your Age">
         <input type="number" class="login-input" name="income" placeholder="Average Income">
-        <p> Do you have a phone? <input type="checkbox" class="login-input" name="hasphone" placeholder="Do You Have A Phone?"> </p>
+        <p> <input type="checkbox" class="login-input" name="hasphone" placeholder="Do You Have A Phone?"> Do you have a phone? </p>
         <input type="submit" name="submit" value="Register" class="login-button">
         <p class="link"><a href="index.php">Click to Login</a></p>
     </form>

@@ -1,5 +1,5 @@
 body {
-    background: #00010e;
+    background: #414361;
     font-family: 'Roboto Mono', monospace;
     color: #000;
 }
@@ -15,7 +15,7 @@ body {
     margin: 50px auto;
     width: 300px;
     padding: 30px 25px;
-    background: #f3e9dc;
+    background: #EDF2EF;
 }
 h1.login-title {
     color: #000;
@@ -38,7 +38,7 @@ h1.login-title {
 }
 .login-button {
     color: #000000;
-    background: #Dab49d;
+    background: #70877F;
     border: 0;
     outline: 0;
     width: 100%;
@@ -66,12 +66,12 @@ table {
     margin-top: 20px;
 }
 th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #414361;
     padding: 8px;
     color: #000;
     text-align: left;
 }
 th {
-    background-color: #f2f2f2;
+    background-color: #414361;
 }
 
