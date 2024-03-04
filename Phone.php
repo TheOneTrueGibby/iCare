@@ -32,7 +32,7 @@ include("session.php");
         } else {
             echo "<div class='form'>
                   <h3>Required fields are missing.</h3><br/>
-                  <p class='link'>Click here to <a href='Phone.php'>register</a> again.</p>
+                  <p class='link'>Click here to <a href='Phone.php'>try</a> again.</p>
                   </div>";
         }
     } else { 
