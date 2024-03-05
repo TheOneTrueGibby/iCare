@@ -53,7 +53,7 @@
         <input type="number" class="login-input" name="income" placeholder="Average Income">
         <p> Do you have a phone? <input type="checkbox" class="login-input" name="hasphone" placeholder="Do You Have A Phone?"> </p>
         <input type="submit" name="submit" value="Register" class="login-button">
-        <p class="link"><a href="index.php">Click to Login</a></p>
+        <p class="link"><a href="Profile.php">Click to Return</a></p>
     </form>
 <?php
     }

@@ -43,7 +43,7 @@ include("session.php");
         <input type="text" class="login-input" name="planID" placeholder="PlanID">
         <input type="number" class="login-input" name="cost" placeholder="Plan Cost">
         <input type="submit" name="submit" value="Submit" class="login-button">
-        <p class="link"><a href="dashboard.php">Click to return to dashboard</a></p>
+        <p class="link"><a href="Profile.php">Click to return</a></p>
     </form>
 <?php
     }

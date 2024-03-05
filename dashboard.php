@@ -14,59 +14,73 @@ include("session.php");
 <body>
 	
   <div class="container dashboard-container">
+
     <h1>Dashboard</h1>
-  
+    
+    <div class="row">
+        <div class="col-md-2">
+            <div class="notification-tab">
+                <a href="profile.php" class="btn btn-info">Profile</a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="notification-tab">
+                <a href="notification.php" class="btn btn-info">Notification</a>
+            </div>
+        </div>
+    </div>
+
     <br>
     <br>
     <br>
 
     <div class="row">
         <div class="col-md-4">
-        <a href="insurance.php" class="card btn btn-primary">
+          <a href="insurance_Providers.php" class="card btn btn-primary">
             <div class="card-body">
-                <h5 class="card-title">Mortgages and insurances</h5>
-                <p class="card-text">Click here to perform action 1.</p>
+              <h5 class="card-title">Mortgages and insurances</h5>
+              <p class="card-text">Click here to perform action.</p>
             </div>
-        </a>
-    </div>
-    <div class="col-md-4">
-      <a href="Lawn.php" class="card btn btn-primary">
-        <div class="card-body">
-          <h5 class="card-title">Lawn care</h5>
-          <p class="card-text">Click here to perform action 2.</p>
+          </a>
         </div>
-      </a>
-    </div>
-    <div class="col-md-4">
-      <a href="Interior.php" class="card btn btn-primary">
-        <div class="card-body">
-          <h5 class="card-title">Interior care</h5>
-          <p class="card-text">Click here to perform action 3.</p>
+        <div class="col-md-4">
+          <a href="Lawn_Providers.php" class="card btn btn-primary">
+            <div class="card-body">
+              <h5 class="card-title">Lawn care</h5>
+              <p class="card-text">Click here to perform action.</p>
+            </div>
+          </a>
         </div>
-      </a>
-    </div>
-    <div class="col-md-4">
-      <a href="Internet.php" class="card btn btn-primary">
-        <div class="card-body">
-          <h5 class="card-title">Internet sevices</h5>
-          <p class="card-text">Click here to perform action 4.</p>
+        <div class="col-md-4">
+          <a href="Interior_Providers.php" class="card btn btn-primary">
+            <div class="card-body">
+              <h5 class="card-title">Interior care</h5>
+              <p class="card-text">Click here to perform action.</p>
+            </div>
+          </a>
         </div>
-      </a>
-    </div>
-    <div class="col-md-4">
-      <a href="Phone.php" class="card btn btn-primary">
-        <div class="card-body">
-          <h5 class="card-title">Phone Services</h5>
-          <p class="card-text">Click here to perform action 5.</p>
+        <div class="col-md-4">
+          <a href="Internet_Providers.php" class="card btn btn-primary">
+            <div class="card-body">
+              <h5 class="card-title">Internet sevices</h5>
+              <p class="card-text">Click here to perform action.</p>
+            </div>
+          </a>
         </div>
-      </a>
-    </div>
-    <div class="col-md-4">
-      <a href="index.php" class="card btn btn-primary">
-        <div class="card-body">
-          <h5 class="card-title">Logout</h5>
+        <div class="col-md-4">
+          <a href="Phone_Providers.php" class="card btn btn-primary">
+            <div class="card-body">
+              <h5 class="card-title">Phone Services</h5>
+              <p class="card-text">Click here to perform action.</p>
+            </div>
+          </a>
         </div>
-      </a>
+        <div class="col-md-4">
+          <a href="index.php" class="card btn btn-primary">
+            <div class="card-body">
+              <h5 class="card-title">Logout</h5>
+            </div>
+          </a>
     </div>
   </div>
 
