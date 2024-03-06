@@ -74,4 +74,10 @@ th, td {
 th {
     background-color: #414361;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
 

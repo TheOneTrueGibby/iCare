@@ -20,6 +20,29 @@ include("session.php");
     <br>
     <br>
 
+    <div class="col-md-4">
+      <table class="table">
+          <thead>
+          <tr>
+              <th>Column 1</th>
+              <th>Column 2</th>
+              <th>Column 3</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+              <td>Data 1</td>
+              <td>Data 2</td>
+              <td>Data 3</td>
+          </tr>
+          <tr>
+              <td>Data 4</td>
+              <td>Data 5</td>
+              <td>Data 6</td>
+          </tr>
+          </tbody>
+      </table>
+    </div>
     <div class="row">
         <div class="col-md-4">
         <a href="insurance.php" class="card btn btn-primary">
